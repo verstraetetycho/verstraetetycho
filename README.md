@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @verstraetetycho
+- 👀 I’m interested in Javascript & Typescript
+- 🌱 I’m currently learning Svelte

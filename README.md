@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @verstraetetycho
-- 👀 I’m interested in Javascript & Typescript
+- 👀 I’m interested in Vlang
 - 🌱 I’m currently learning Svelte
+- 💻 I'm most good at JavaScript/TypeScript

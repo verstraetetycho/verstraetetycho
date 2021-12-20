@@ -10,3 +10,6 @@
 - [ ] Learn V
 - [ ] Remake portfolio
 - [ ] Make a blog
+- [ ] Learn Kubernetes
+- [ ] Setup a server to host my website(s)
+- [ ] Begin a YouTube channel

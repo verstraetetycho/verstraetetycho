@@ -1,4 +1,12 @@
-- 👋 Hi, I’m @verstraetetycho
-- 👀 I’m interested in Vlang
-- 🌱 I’m currently learning Svelte
-- 💻 I'm most good at JavaScript/TypeScript
+# 👋 Hi, I’m @verstraetetycho
+
+## ℹ Some info:
+- Student: Bachelor Applied Computer Science
+- Graduated: Graphic Designer
+- Favorite language: Javascript / Typescript
+
+## ✔ Goals I would like to accomplish in 2022
+- [] Graduate
+- [] Learn V
+- [] Remake portfolio
+- [] Make a blog

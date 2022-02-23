@@ -6,11 +6,11 @@
 - Favorite language: Javascript / Typescript
 
 ## ✔ Goals I would like to accomplish in 2022
-- [ ] Graduate
+- [x] Graduate
 - [ ] Learn V
 - [ ] Remake portfolio
 - [ ] Make a blog
 - [ ] Learn Kubernetes
 - [ ] Setup a server to host my website(s)
 - [ ] Begin a YouTube channel
-- [ ] Switch completely to linux
+- [x] Switch completely to linux

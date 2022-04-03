@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @verstraetetycho
 
 ## ℹ Some info:
-- Student: Bachelor Applied Computer Science
+- Graduated: Software Engineer
 - Graduated: Graphic Designer
-- Favorite language: Javascript / Typescript
+- Favorite language(s): Javascript / Typescript
 
 ## ✔ Goals I would like to accomplish in 2022
 - [x] Graduate
@@ -14,3 +14,4 @@
 - [ ] Setup a server to host my website(s)
 - [ ] Begin a YouTube channel
 - [x] Switch completely to linux
+- [x] Get a job

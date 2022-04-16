@@ -7,7 +7,6 @@
 
 ## ✔ Goals I would like to accomplish in 2022
 - [x] Graduate
-- [ ] Learn V
 - [ ] Remake portfolio
 - [ ] Make a blog
 - [ ] Learn Kubernetes
